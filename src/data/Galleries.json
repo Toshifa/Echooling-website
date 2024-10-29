@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "title": "Sports Event 1",
+        "image": "1.jpg",
+        "category": "Sports",
+        "description": "Description for Sports Event 1",
+        "thumbnail": "1_thumb.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Sports Event 2",
+        "image": "2.jpg",
+        "category": "Sports",
+        "description": "Description for Sports Event 2",
+        "thumbnail": "2_thumb.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Academics Event 1",
+        "image": "3.jpg",
+        "category": "Academics",
+        "description": "Description for Academics Event 1",
+        "thumbnail": "3_thumb.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Academics Event 2",
+        "image": "4.jpg",
+        "category": "Academics",
+        "description": "Description for Academics Event 2",
+        "thumbnail": "4_thumb.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Cultural Event 1",
+        "image": "5.jpg",
+        "category": "Cultural Events",
+        "description": "Description for Cultural Event 1",
+        "thumbnail": "5_thumb.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Cultural Event 2",
+        "image": "6.jpg",
+        "category": "Cultural Events",
+        "description": "Description for Cultural Event 2",
+        "thumbnail": "6_thumb.jpg"
+    },
+    {
+        "id": 7,
+        "title": "Field Trip 1",
+        "image": "7.jpg",
+        "category": "Field Trips",
+        "description": "Description for Field Trip 1",
+        "thumbnail": "7_thumb.jpg"
+    },
+    {
+        "id": 8,
+        "title": "Field Trip 2",
+        "image": "8.jpg",
+        "category": "Field Trips",
+        "description": "Description for Field Trip 2",
+        "thumbnail": "8_thumb.jpg"
+    },
+    {
+        "id": 9,
+        "title": "Sports Event 3",
+        "image": "9.jpg",
+        "category": "Sports",
+        "description": "Description for Sports Event 3",
+        "thumbnail": "9_thumb.jpg"
+    },
+    {
+        "id": 10,
+        "title": "Academics Event 3",
+        "image": "10.jpg",
+        "category": "Academics",
+        "description": "Description for Academics Event 3",
+        "thumbnail": "10_thumb.jpg"
+    }
+]
